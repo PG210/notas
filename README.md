@@ -49,3 +49,6 @@ El proyecto está dividido en dos partes el Backend en Laravel y Front en Vue
 ### Otros 
 
 - `.env` → Variables de entorno del proyecto, configuración de la DB.
+### Disponible en: 
+
+- https://notas.approyectos.site/
